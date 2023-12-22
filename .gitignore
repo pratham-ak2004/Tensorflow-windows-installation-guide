@@ -1,0 +1,40 @@
+# Ignore Python virtual environments
+venv/
+env/
+env.bak/
+tfinstall/
+
+# Ignore pipenv virtual environment
+.Python
+
+# Ignore pipenv lock file
+Pipfile.lock
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Visual Studio Code project files
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python log files
+*.log
+
+# Ignore Python distribution files
+dist/
+build/
+*.egg-info/
+
+
+# Installed Tensorflow directrory
+Tensorflow/
