@@ -61,7 +61,7 @@ jupyter notebook
 Run the cells in `Tensorflow installation.ipnb` .
 
 The installation is successfull when you get the below output when running the verification script<br>
-![Verification script output]()
+![Verification script output](https://github.com/pratham-ak2004/Tensorflow-windows-installation-guide/assets/124170443/9ac2e851-aa49-4cb6-a9f0-3e6e5132bde2)
 
 ## Error
 
